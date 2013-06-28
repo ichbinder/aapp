@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset> 
+    <USER_TABLE id="-1" name="Meier" vorname="Klaus" email="klaus.meier@htw-berlin.de" nickname="klaus" />
+    
+    <!--  Artikel    id="-2" inhalt="Das Wesen des Menschen ..." titel="Über das Sein" zusammenfassung="Das Sein ..." user_id="-1"/ -->
+</dataset>
